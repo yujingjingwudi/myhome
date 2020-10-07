@@ -1,0 +1,39 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Anaconda3\envs\hope\python.exe" value="false" />
+        <entry key="D:\Anaconda3\envs\python35\python.exe" value="false" />
+        <entry key="D:\Anaconda3\python.exe" value="true" />
+        <entry key="D:\Python37\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="D:\Anaconda3\envs\hope\python.exe" value="false" />
+        <entry key="D:\Anaconda3\envs\python35\python.exe" value="false" />
+        <entry key="D:\Anaconda3\python.exe" value="true" />
+        <entry key="D:\Python37\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
